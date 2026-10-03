@@ -1,0 +1,13 @@
+{
+  "name": "bodypas-mods",
+  "owner": { "name": "Bogdan Pascari" },
+  "metadata": { "description": "Personal Claude Code mods" },
+  "plugins": [
+    {
+      "name": "usage-live",
+      "source": "./plugins/usage-live",
+      "description": "Colored line under the prompt with context fill, 5-hour and weekly limits, and session cost",
+      "version": "0.7.0"
+    }
+  ]
+}
