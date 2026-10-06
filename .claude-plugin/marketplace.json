@@ -10,8 +10,8 @@
     {
       "name": "usage-live",
       "source": {
-        "source": "github",
-        "repo": "bodypas/claude-usage-live"
+        "source": "url",
+        "url": "https://github.com/bodypas/claude-usage-live.git"
       },
       "description": "Colored line under the prompt with context fill, 5-hour and weekly limits, and session cost",
       "version": "0.7.3"
